@@ -1,0 +1,48 @@
+{
+  "ProjectName": "Gen11-EntData Hybrid",
+  "ProjectGuid": "e3134de8-f175-4e8e-b0e3-266cdba98e34",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Gen11EntDataHybrid",
+  "DisplayName": "Gen11-EntData Hybrid",
+  "Author": "",
+  "Description": "Gen11-EntData Hybrid",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{b9b361d4-e694-4e9f-ba5d-c2a9dc8bf3bd}",
+  "WP8ProductID": "{5383adc3-9507-4bab-b616-8df0df9785cb}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Gen11EntDataHybrid",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ],
+  "CorePlugins": [
+    "org.apache.cordova.network-information"
+  ]
+}
